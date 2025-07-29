@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ChatterBox
 
 A real-time chat application built with the MERN stack.
@@ -19,3 +20,6 @@ client/   # React frontend
 server/   # Express backend
 sockets/  # Socket.IO logic
 ``` 
+=======
+# ChatterBox
+>>>>>>> 99d1a2c7a17ede995c4467d11bd9a3168f893718
